@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zombs 👋</h1>
+<h1 align="center">Hi, I'm Aseem Nihal 👋</h1>
 <h3 align="center">Software Engineer | Full-Stack · Backend · ML | MCA @ NIT Kurukshetra</h3>
 
 <p align="center">
