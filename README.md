@@ -1,143 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Aseem%20Nihal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20Frontend-Backend%20%C2%B7%20ML&descAlignY=55&descSize=18" width="100%"/>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+load;MCA+%40+NIT+Kurukshetra+(Grad+2027);Open+to+SDE+Internship+%2F+Full-Time+Roles" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&text=Aseem%20Nihal&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Engineering%20systems%20that%20survive%20real%20load&descSize=20&descAlignY=68" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+%E2%80%A2+Backend+%E2%80%A2+ML+Engineer;MCA+%40+NIT+Kurukshetra;500+concurrent+clients.+Sub-10ms+latency.;Open+to+SDE+roles+%E2%86%92+Let's+talk." alt="typing" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2&label=Profile+Views" />
+<br><br>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="https://YOUR-PORTFOLIO-LINK.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1b27" />
+</a>
 
 </div>
 
 <br>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Final-year **MCA student at NIT Kurukshetra** (graduating July 2027), actively looking for a Software Development Engineer internship or full-time role. I care about performance, correctness, and systems that scale past the happy path — not just demos.
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 
+<h2 align="center">⟡ &nbsp;About&nbsp; ⟡</h2>
+
+<p align="center" width="80%">
+Final-year <b>MCA student at NIT Kurukshetra</b> (Class of 2027).<br>
+I don't stop at "it works on my machine" — I load-test, profile, and fix the bottleneck.<br>
+Currently hunting for <b>SDE internship & full-time roles</b> in full-stack, backend, and ML.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+
+<h2 align="center">⟡ &nbsp;Featured Work&nbsp; ⟡</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
 <br>
-
-## 📌 Projects That Actually Have Numbers Behind Them
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖊️ Collaborative Whiteboard
-**Real-time systems engineering**
-
-Load-tested like production infrastructure, not just built and demoed.
-
-- 🔧 Custom **TCP load-testing harness** to simulate concurrent users
-- ⚡ Sustained **500 concurrent clients** at **sub-10ms p95/p99 latency**
-- 🔍 Diagnosed & fixed a **synchronous broadcast bottleneck**
-
-`Tech: [Add stack — e.g. Node.js, WebSockets, Redis]`
-
+<h3>🖊️</h3>
+<h3>Collaborative Whiteboard</h3>
+<img src="https://img.shields.io/badge/500_clients-sub--10ms_p99-A78BFA?style=flat-square&labelColor=1a1b27"/>
+<br><br>
+<p>Real-time whiteboard load-tested like production infra. Built a custom TCP harness, sustained <b>500 concurrent clients</b> at <b>sub-10ms p95/p99</b>, and root-caused a synchronous broadcast bottleneck.</p>
+<code>[stack]</code>
+<br><br>
 </td>
-<td width="50%" valign="top">
-
-### 📊 Student Placement Analysis
-**Data-driven insight**
-
-Uncovered which factors most strongly predict placement outcomes.
-
-- 📈 Correlation strength of **[FILL IN VALUE]** between [key factor] and placement outcome
-- 🧠 End-to-end statistical analysis pipeline
-
-`Tech: [Add stack — e.g. Python, Pandas, scikit-learn]`
-
+<td align="center" width="33%">
+<br>
+<h3>💰</h3>
+<h3>Smart Budget Planner</h3>
+<img src="https://img.shields.io/badge/11_tables-normalized_schema-A78BFA?style=flat-square&labelColor=1a1b27"/>
+<br><br>
+<p>Full-stack Android finance app. <b>Kotlin + Jetpack Compose</b> frontend, <b>Node/Express</b> backend, PostgreSQL with <b>11 normalized tables</b>, and a phased, swappable ML design.</p>
+<code>Kotlin · Compose · Node · PostgreSQL</code>
+<br><br>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎞️ Media Compressor
-**Practical systems tool**
-
-Compresses media files while preserving acceptable quality.
-
-- 📉 Achieved a **[FILL IN VALUE]% reduction** in file size
-- ⚙️ Configurable quality/size tradeoffs
-
-`Tech: [Add stack here]`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Smart Budget & Expense Planner
-**Final-year MCA project, in progress**
-
-Full-stack Android app for personal finance tracking.
-
-- 🗄️ PostgreSQL schema with **11 normalized tables**
-- 📱 Kotlin / Jetpack Compose frontend + Node.js/Express backend
-- 🧩 Phased ML approach — rule-based first, swappable later
-
-`Tech: Kotlin, Jetpack Compose, Node.js, Express, PostgreSQL`
-
+<td align="center" width="33%">
+<br>
+<h3>📊</h3>
+<h3>Placement Analysis</h3>
+<img src="https://img.shields.io/badge/correlation-[FILL_IN]-A78BFA?style=flat-square&labelColor=1a1b27"/>
+<br><br>
+<p>Statistical deep-dive into what actually predicts student placements — end-to-end analysis pipeline with a measured correlation of <b>[FILL IN]</b> between key factors and outcomes.</p>
+<code>[stack]</code>
+<br><br>
 </td>
 </tr>
 </table>
 
-<br>
+<p align="center"><sub>➕ Also: <b>Media Compressor</b> — [FILL IN]% file-size reduction with quality preserved</sub></p>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════ STACK ═══════════════════ -->
+
+<h2 align="center">⟡ &nbsp;Arsenal&nbsp; ⟡</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,kotlin&perline=6" />
 <br>
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=express,spring,postgres,mongodb,docker,aws&perline=6" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,vite,tailwind,linux&perline=4" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+
+<h2 align="center">⟡ &nbsp;By the Numbers&nbsp; ⟡</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=f093fb&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=c9d1d9" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=A78BFA&fire=f093fb&currStreakLabel=A78BFA" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=f093fb&point=ffffff&area=true&area_color=764ba2" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════ NOW ═══════════════════ -->
+
+<h2 align="center">⟡ &nbsp;Right Now&nbsp; ⟡</h2>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎖️ | **Committee Head @ MEXPERTS Technical Society** — leading events, mentoring juniors |
+| 🎯 | Grinding SDE interview prep — DSA, system design, projects |
+| 🌐 | Shipping a portfolio site with **React + Vite + Tailwind** |
+| 📬 | **Open to opportunities** — my inbox is always open |
 
 </div>
 
 <br>
 
-## 📈 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00C9A7&icon_color=0A66C2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f093fb,50:764ba2,100:667eea&height=150&section=footer&text=Let's%20build%20something.&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 </div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=0A66C2&fire=00C9A7" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>(snake animation — set up via the <a href="https://github.com/Platane/snk">platane/snk</a> GitHub Action on your own repo to make this live)</sub>
-</div>
-
-<br>
-
-## 🌱 Currently
-
-- 🔭 Leading events & mentoring juniors as **Committee Head, MEXPERTS Technical Society**
-- 🎯 Preparing for SDE interviews across full-stack, backend, and ML roles
-- 🌐 Building a personal portfolio with **React, Vite, and Tailwind CSS**
-- 💬 Open to internship & full-time opportunities — reach out!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=100&section=footer" width="100%"/>
