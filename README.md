@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/aseem-nihal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ASEEMNIHAL1&style=for-the-badge&color=0A66C2&label=Profile+Views" />
 
 </div>
 
@@ -36,20 +36,23 @@ Load-tested like production infrastructure, not just built and demoed.
 - ⚡ Sustained **500 concurrent clients** at **sub-10ms p95/p99 latency**
 - 🔍 Diagnosed & fixed a **synchronous broadcast bottleneck**
 
-`Tech: [Add stack — e.g. Node.js, WebSockets, Redis]`
+`Tech: Java, WebSockets/TCP`
+[View repo →](https://github.com/ASEEMNIHAL1/Collaborative_WhiteBoard)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Student Placement Analysis
-**Data-driven insight**
+### 📊 OLA Data Analyst Project
+**Data-driven insight, end to end**
 
-Uncovered which factors most strongly predict placement outcomes.
+A full analyst-style project: raw ride data → cleaned schema → dashboard-ready insights.
 
-- 📈 Correlation strength of **[FILL IN VALUE]** between [key factor] and placement outcome
-- 🧠 End-to-end statistical analysis pipeline
+- 🗄️ SQL for data cleaning, transformation, and analysis
+- 📈 Power BI dashboard surfacing ride and revenue trends
+- 🧠 End-to-end pipeline from raw data to visual reporting
 
-`Tech: [Add stack — e.g. Python, Pandas, scikit-learn]`
+`Tech: SQL, Power BI`
+[View repo →](https://github.com/ASEEMNIHAL1/OLA-Data-Analyst-Project-Power-BI-And-SQL)
 
 </td>
 </tr>
@@ -59,26 +62,27 @@ Uncovered which factors most strongly predict placement outcomes.
 ### 🎞️ Media Compressor
 **Practical systems tool**
 
-Compresses media files while preserving acceptable quality.
+A Python tool for resizing images and compressing files while preserving acceptable quality.
 
-- 📉 Achieved a **[FILL IN VALUE]% reduction** in file size
 - ⚙️ Configurable quality/size tradeoffs
+- 🖼️ Handles both image resizing and general file compression
 
-`Tech: [Add stack here]`
+`Tech: Python`
+[View repo →](https://github.com/ASEEMNIHAL1/MEDIA-COMPRESSOR)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Smart Budget & Expense Planner
-**Final-year MCA project, in progress**
+### 💰 SpendWise AI
+**Final-year MCA capstone**
 
-Full-stack Android app for personal finance tracking.
+Android app that reads UPI transaction SMS and auto-categorizes spending — no manual entry required.
 
-- 🗄️ PostgreSQL schema with **11 normalized tables**
-- 📱 Kotlin / Jetpack Compose frontend + Node.js/Express backend
-- 🧩 Phased ML approach — rule-based first, swappable later
+- 🧩 4-layer categorization pipeline: regex pre-filter → curated vendor lookup → keyword fallback → LLM-phrased guess (LLM never does the math, only phrases results)
+- 📱 Kotlin / Jetpack Compose, Room DB for local storage, WorkManager for live SMS capture
+- 🔁 Built end-to-end: transaction feed, dashboard, SMS parsing, and manual category correction
 
-`Tech: Kotlin, Jetpack Compose, Node.js, Express, PostgreSQL`
+`Tech: Kotlin, Jetpack Compose, Room, WorkManager`
 
 </td>
 </tr>
@@ -92,12 +96,14 @@ Full-stack Android app for personal finance tracking.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 <br>
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -111,16 +117,16 @@ Full-stack Android app for personal finance tracking.
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00C9A7&icon_color=0A66C2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASEEMNIHAL1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00C9A7&icon_color=0A66C2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASEEMNIHAL1&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=0A66C2&fire=00C9A7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASEEMNIHAL1&theme=tokyonight&hide_border=true&ring=0A66C2&fire=00C9A7" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-readme-trophies.vercel.app/?username=ASEEMNIHAL1&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </div>
 
 <div align="center">
@@ -135,7 +141,7 @@ Full-stack Android app for personal finance tracking.
 
 - 🔭 Leading events & mentoring juniors as **Committee Head, MEXPERTS Technical Society**
 - 🎯 Preparing for SDE interviews across full-stack, backend, and ML roles
-- 🌐 Building a personal portfolio with **React, Vite, and Tailwind CSS**
+- 🌐 Building premium, recruiter-facing developer portfolio sites (Next.js 15, TypeScript, Tailwind CSS)
 - 💬 Open to internship & full-time opportunities — reach out!
 
 <br>
